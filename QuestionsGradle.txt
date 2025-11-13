@@ -1,3 +1,5 @@
+Ändra version av gradle och se till att denna version används i projektet = ./gradlew wrapper --gradle-version 9.2.0
+
 Kompilera = ./gradlew compileJava
 Kör klasser = ./gradlew run
 Kör tester = ./gradlew test
