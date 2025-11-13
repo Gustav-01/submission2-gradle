@@ -1,0 +1,11 @@
+Kompilera = ./gradlew compileJava
+Kör klasser = ./gradlew run
+Kör tester = ./gradlew test
+Generera javadoc = ./gradlew javadoc
+Paketering = ./gradlew jar
+
+ELLER 
+
+Kör allt på samma = ./gradlew build 
+
+Detta genererar däremot inte javadoc, vilket vi senare behöver köra manuellt. 

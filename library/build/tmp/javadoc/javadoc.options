@@ -1,0 +1,17 @@
+-classpath '/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/build/classes/java/main:/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/build/resources/main'
+-quiet 
+-d '/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/build/docs/javadoc'
+-windowtitle 'library_gradle 1.0-SNAPSHOT API'
+-doctitle 'library_gradle 1.0-SNAPSHOT API'
+-notimestamp 
+'/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/src/main/java/se/yrgo/Book.java'
+'/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/src/main/java/se/yrgo/BookCatalog.java'
+'/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/src/main/java/se/yrgo/BookNotFoundException.java'
+'/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/src/main/java/se/yrgo/Customer.java'
+'/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/src/main/java/se/yrgo/GenderType.java'
+'/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/src/main/java/se/yrgo/Loan.java'
+'/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/src/main/java/se/yrgo/LoanAlreadyExistsException.java'
+'/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/src/main/java/se/yrgo/LoanNotFoundException.java'
+'/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/src/main/java/se/yrgo/LoanStatus.java'
+'/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/src/main/java/se/yrgo/Main.java'
+'/mnt/c/Users/gusta/Documents/yrgo/utvecklingsverktyg/submissions/submission2/library-gradle/library/src/main/java/se/yrgo/Material.java'
